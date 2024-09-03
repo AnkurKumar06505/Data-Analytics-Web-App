@@ -1,4 +1,4 @@
-Data Analysis Portal
+Data Analysis web-App
 
 The Data Analysis Portal is a robust and user-friendly Streamlit-based web application designed to simplify the process of data analysis. It provides an intuitive interface where users can upload datasets in CSV or Excel format, explore essential statistics, and generate insightful visualizations with ease. This tool is ideal for anyone looking to perform quick and comprehensive data analysis without writing a single line of code.
 
