@@ -1,6 +1,6 @@
-Data Analysis web-App
+Data Analysis Web App
 
-The Data Analysis Portal is a robust and user-friendly Streamlit-based web application designed to simplify the process of data analysis. It provides an intuitive interface where users can upload datasets in CSV or Excel format, explore essential statistics, and generate insightful visualizations with ease. This tool is ideal for anyone looking to perform quick and comprehensive data analysis without writing a single line of code.
+The Data Analysis Web App is a robust and user-friendly Streamlit-based application designed to simplify data analysis. It offers an intuitive interface for uploading datasets in CSV or Excel format, exploring essential statistics, and generating insightful visualizations with ease. Ideal for quick and comprehensive data analysis without coding.
 
 Key Features
 
@@ -12,11 +12,11 @@ Row and column count
 Statistical summaries (mean, median, standard deviation, etc.)
 Top and bottom rows
 Data types and column names
-Column Value Counts: Analyzes the distribution of values within a selected column, offering visualizations like bar charts, line charts, and pie charts.
+Column Value Counts: Analyzes the distribution of values within a selected column, with visualizations like bar charts, line charts, and pie charts.
 
 Groupby Operations: Allows data aggregation by grouping columns and performing operations (sum, mean, etc.), with visualization options such as bar charts, line charts, scatter plots, and sunburst charts.
 
-Interactive Visualizations: Powered by Plotly, the portal offers interactive and customizable charts that are responsive across devices.
+Interactive Visualizations: Powered by Plotly, the app offers interactive and customizable charts that are responsive across devices.
 
 Usage
 
@@ -25,5 +25,3 @@ Explore the dataset’s structure and key statistics.
 Analyze column distributions and visualize the results.
 Perform groupby operations for deeper insights.
 Interact with visualizations for detailed exploration.
-
-
