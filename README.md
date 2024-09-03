@@ -44,3 +44,10 @@ All the visualizations in the Data Analysis Portal are powered by Plotly, a libr
 Interactivity: Users can hover over charts to see detailed data points, zoom in and out for better clarity, and even pan across the visualizations to explore specific areas of interest.
 Customization: The visualizations are generated based on user selections, allowing for a high degree of customization without requiring any coding skills.
 Responsive Design: The charts adjust automatically to fit the browser window, ensuring a seamless experience across different devices and screen sizes.
+
+Usage
+Upload a File: Start by uploading a CSV or Excel file.
+Explore the Data: Use the tabs to view data summaries, data types, and specific rows.
+Analyze Column Values: Select a column to see the distribution of its values, along with corresponding visualizations.
+Group and Summarize Data: Use the Groupby feature to aggregate data and create custom summaries, which can then be visualized using various chart types.
+Interactive Charts: Explore the generated visualizations to gain insights into your data.
