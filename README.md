@@ -24,9 +24,4 @@ Analyze column distributions and visualize the results.
 Perform groupby operations for deeper insights.
 Interact with visualizations for detailed exploration.
 
-Usage
-Upload a File: Start by uploading a CSV or Excel file.
-Explore the Data: Use the tabs to view data summaries, data types, and specific rows.
-Analyze Column Values: Select a column to see the distribution of its values, along with corresponding visualizations.
-Group and Summarize Data: Use the Groupby feature to aggregate data and create custom summaries, which can then be visualized using various chart types.
-Interactive Charts: Explore the generated visualizations to gain insights into your data.
+
