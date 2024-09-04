@@ -1,4 +1,4 @@
-Data Analysis Web App
+## Data Analysis Web App
 
 The Data Analysis Web App is a robust and user-friendly Streamlit-based application designed to simplify data analysis. It offers an intuitive interface for uploading datasets in CSV or Excel format, exploring essential statistics, and generating insightful visualizations with ease. Ideal for quick and comprehensive data analysis without coding.
 
